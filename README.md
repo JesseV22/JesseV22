@@ -3,10 +3,10 @@
 Hi 👋 My name is Jessé Vitorino de Oliveira
 ===========================================
 
-Dev Web
+
 -------
 
-* 🌍  I'm based in Riolândia, SP, Brasil
+* 🌍  I'm based in São Paulo, SP, Brazil
 * ✉️  You can contact me at [starkjesse2020@gmail.com](mailto:starkjesse2020@gmail.com)
 * 🧠  I'm learning C++,Portugol,HTML5,CSS,JAVASCRIPT
 
