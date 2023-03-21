@@ -1,5 +1,4 @@
-<img align="right" height="590em"
-     src="https://raw.githubusercontent.com/gist/JesseV22/d5e9d1ca6bf512e00464fa4246614477/raw/8fa631c8babde42712db3e4cc36128982b75dda7/githubcard.svg"/>
+
      
 Hi 👋 My name is Jessé Vitorino de Oliveira
 ===========================================
