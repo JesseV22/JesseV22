@@ -13,14 +13,13 @@
 - 🍀 You can contact me at starkjesse2020@gmail.com  
   
 
-- 🧠 I'm learning C++,Portugol,HTML5,CSS,JAVASCRIPT  
+
   
 
 <br/>  
 
 
 ## My Skill Set  
-## 💾 **Knowledge** 
 <div align="center" style="display: inline_block"><br>
 <img align="center" alt="C++" height="50" width="60" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg">
 <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
